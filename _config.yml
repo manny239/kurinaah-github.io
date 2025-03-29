@@ -22,8 +22,8 @@ title: Personal brand website for Manny Kurinaah
 email: emkurinaah@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Showcase of my classes, leadership roles, projects, and more.
-baseurl: "/kurinaah-github.io" # the subpath of your site, e.g. /blog
-url: "https://manny239.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl:  # the subpath of your site, e.g. /blog
+url: "https://manny239.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
