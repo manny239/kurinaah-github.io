@@ -27,3 +27,8 @@ permalink: /leadership/
     **April 2023- April 2024** <br>
 - Led General meetings during the absence of the President. <br>
 - Planned Chapter initiatives within the local Hartford community. <br>
+
+**President, Men's Soccer Club | University of Hartford** <br>
+    **April 2023- April 2024** <br>
+- Held meetings with the budgetting committe for the allocation of funds every semester <br>
+- Created flexible weekly practice schedules to accomodate individual availability <br>
