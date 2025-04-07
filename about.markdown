@@ -6,12 +6,12 @@ permalink: /about/
 
 <div class="hobbies-list"> 
     <ul> 
-        <li> Innovator </li>
-        <li> Fullstack Application Developer </li>
-        <li> AI & Machine Learning Enthusiast </li>
-        <li> Leader & Team Player</li>
-        <li> Public Speaker </li>
-        <li> Athlete </li>
+        <li> Innovator 🧠 </li>
+        <li> Fullstack Application Developer 💼 </li>
+        <li> AI & Machine Learning Enthusiast 🤖 </li>
+        <li> Leader & Team Player 💪 </li>
+        <li> Public Speaker 🎤  </li>
+        <li> Athlete 🏆 </li>
     </ul>
 </div>
 
