@@ -20,6 +20,7 @@ For going green and smart city initiatives, this can be an important cog in the 
     <img src="/assets/images/image1.jpg" alt="Pic1" class="active"/>
     <img src="/assets/images/image2.png" alt ="Pic2" />
     <img src="/assets/images/image3.jpg" alt ="Pic3" />
+    <img src="/assets/images/image4.jpg" alt ="Pic4" />
 </div>
 
 <!-- Button to play/pause picture -->

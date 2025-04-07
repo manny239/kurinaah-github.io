@@ -4,15 +4,41 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<div class="hobbies-list"> 
+    <ul> 
+        <li> Team Player </li>
+        <li> Leader </li>
+        <li> Public Speaker </li>
+        <li> Athlete </li>
+    </ul>
+</div>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<div class="hobbies"> 
+    <img src="/assets/images/ball.JPG" alt="basketball-photo">
+    <img src="/assets/images/speak.JPEG" alt="public-speaking">
+    <img src="/assets/images/soccer.JPG" alt="soccer-photo">
+</div>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<style>
+.hobbies-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
 
+.hobbies {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
 
-[jekyll-organization]: https://github.com/jekyll
+/* Style for the first two images */
+.hobbies img {
+    width: calc(50% - 5px);
+}
+
+/* Make the third image span the full row */
+.hobbies img:nth-child(3) {
+    width: 100%
+}
+</style>

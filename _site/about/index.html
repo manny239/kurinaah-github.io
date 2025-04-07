@@ -43,15 +43,44 @@
   </header>
 
   <div class="post-content">
-    <p>This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="https://jekyllrb.com/">jekyllrb.com</a></p>
+    <div class="hobbies-list"> 
+    <ul> 
+        <li> Team Player </li>
+        <li> Leader </li>
+        <li> Public Speaker </li>
+        <li> Athlete </li>
+    </ul>
+</div>
 
-<p>You can find the source code for Minima at GitHub:
-<a href="https://github.com/jekyll">jekyll</a> /
-<a href="https://github.com/jekyll/minima">minima</a></p>
+<div class="hobbies"> 
+    <img src="/assets/images/ball.JPG" alt="basketball-photo" />
+    <img src="/assets/images/speak.JPEG" alt="public-speaking" />
+    <img src="/assets/images/soccer.JPG" alt="soccer-photo" />
+</div>
 
-<p>You can find the source code for Jekyll at GitHub:
-<a href="https://github.com/jekyll">jekyll</a> /
-<a href="https://github.com/jekyll/jekyll">jekyll</a></p>
+<style>
+.hobbies-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.hobbies {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+/* Style for the first two images */
+.hobbies img {
+    width: calc(50% - 5px);
+}
+
+/* Make the third image span the full row */
+.hobbies img:nth-child(3) {
+    width: 100%
+}
+</style>
 
 
   </div>
